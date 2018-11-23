@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StarWars</string>
+
+    <!-- SplashScreen -->
+    <string name="splash_screen_title">Star\nWars</string>
+
+    <string name="action_load_data">Load data</string>
+
+    <string name="failure_title">Failure</string>
+
+    <string name="item_card_people_birth">Birth year: %1$s</string>
+    <string name="item_card_people_height">Height: %1$s cm</string>
+    <string name="item_card_people_mass">Mass: %1$s kg</string>
+    <string name="item_card_people_gender">Gender: %1$s</string>
+
+</resources>

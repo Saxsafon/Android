@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Звездные Войны</string>
+
+    <string name="splash_screen_title">Звездные\nВойны</string>
+
+    <string name="action_load_data">Загрузить данные</string>
+
+    <string name="failure_title">Ошибка</string>
+
+    <string name="item_card_people_birth">Год рождения: %1$s</string>
+    <string name="item_card_people_height">Рост: %1$s</string>
+    <string name="item_card_people_mass">Вес: %1$s</string>
+    <string name="item_card_people_gender">Пол: %1$s</string>
+
+</resources>
